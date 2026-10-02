@@ -1,2 +1,2 @@
 image: sachitbharti/vat:<+pipeline.sequenceId>
-replicas: 1
+replicas: 4
